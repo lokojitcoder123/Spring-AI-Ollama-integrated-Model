@@ -3,8 +3,7 @@
 
 A full-stack application that demonstrates seamless integration of locally hosted Large Language Models (LLMs) using Ollama, built with Spring Boot and Spring AI.
 
-This project focuses on enabling privacy-first, offline-capable AI applications with a clean backend architecture and an interactive React-based frontend.
-
+This project focuses on enabling privacy-first, offline-capable AI applications with a clean backend architecture and an interactive React-based fronten
 ---
 
 ## 📖 Overview
@@ -82,8 +81,7 @@ This project showcases how to:
 * Displays responses in real-time
 
 ---
-<p align="center"><b><img width="1024" height="1226" alt="61f4aa34-d86e-4b49-a02a-b0bb7c138c39" src="https://github.com/user-attachments/assets/a9b8c465-d177-4d41-895b-6da8177ef049" />
-</b></p>
+
 
 
 ### 2. Backend Layer (Spring Boot + Spring AI)
@@ -105,7 +103,7 @@ This is the core orchestration layer of the system.
 
 ---
 
-### 3. AI Execution Layer (Ollama Runtime)
+### 3 AI Execution Layer (Ollama Runtime)
 
 * Runs locally on the developer’s machine
 * Hosts open-source LLMs like:
