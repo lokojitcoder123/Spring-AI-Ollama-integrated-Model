@@ -56,7 +56,7 @@ This project showcases how to:
 |     Ollama Runtime           |
 | (Local LLM Execution Engine) |
 |------------------------------|
-| - Model (LLaMA / Mistral)    |
+| - Model (deepseek-r1:1.5b)   |
 | - Prompt Processing          |
 | - Response Generation        |
 +--------------+---------------+
