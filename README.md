@@ -158,8 +158,8 @@ This is the core orchestration layer of the system.
 ### Configure Application
 
 ```properties
-spring.ai.ollama.base-url=http://localhost:5173
-spring.ai.ollama.chat.options.model=llama3
+spring.application.name=SpringAIDemo1
+spring.ai.ollama.chat.options.model=deepseek-r1:1.5b
 ```
 
 ### Build & Run
